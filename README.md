@@ -1,4 +1,4 @@
-# ADCS-Investigation
+# Attitude Determination and Control System (ADCS) State-of-art Investigation.
 In this project, I performed investigation work for the Attitude Determination and Control System (ADCS), focused on CubeSat satellites.
 
 ## Year: 2016.
