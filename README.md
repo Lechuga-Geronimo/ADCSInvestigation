@@ -18,4 +18,6 @@ I reviewed the state-of-art, founding how the ADCS is constitution:
 
 # Product. 
 
-This investigation was useful to produce a paper, published in a national congress. Resource available here: https://www.researchgate.net/publication/370483157
+This investigation was useful to produce a paper, published in a national congress. 
+
+Resource available here: https://www.researchgate.net/publication/370483157
