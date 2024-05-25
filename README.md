@@ -1,5 +1,5 @@
 # ADCS-Investigation
-In this project, I performed investigation work for the ADCS as part of my Research Internship activities. 
+In this project, I performed investigation work for the Attitude Determination and Control System (ADCS), focused on CubeSat satellites.
 
 ## Year: 2016.
 
